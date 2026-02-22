@@ -15,8 +15,8 @@ Follow these steps to get the application up and running:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd ai-analytics
+git clone https://github.com/smriti117/prompt-sql-generator.git
+cd prompt-sql-generator
 ```
 
 ### 2. Create and Activate Virtual Environment
