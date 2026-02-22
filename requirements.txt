@@ -6,3 +6,5 @@ pydantic
 pydantic-settings
 alembic
 psycopg2-binary
+openai
+websockets
